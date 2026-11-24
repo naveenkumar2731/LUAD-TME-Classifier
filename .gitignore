@@ -1,0 +1,20 @@
+# Raw & intermediate data
+*.RData
+*.rds
+*.CEL
+*.CEL.gz
+*.tar
+*.tar.gz
+*.tsv
+*.tsv.gz
+LM22.txt
+GDCdata/
+GSE*/
+
+# Generated outputs (tables, reports, figures)
+revision_outputs/
+*.csv
+*.png
+*.pdf
+Phase3_Chunk*.txt
+Statistical_Report_Summary.txt
